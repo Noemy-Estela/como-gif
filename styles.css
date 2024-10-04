@@ -3,3 +3,14 @@ body {
     background-size: cover; 
     background-position: center;
 }
+.boton {
+    padding: 10px 20px;
+    background-color: rgb(230, 202, 173);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.boton:hover {
+    background-color: rgb(176, 57, 119);
+}
